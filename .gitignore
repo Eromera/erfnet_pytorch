@@ -1,0 +1,9 @@
+#Files
+*.pyc
+*.pyo
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+eval/save_results/
+eval/save_color/
+save/
